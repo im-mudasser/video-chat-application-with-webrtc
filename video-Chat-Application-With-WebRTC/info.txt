@@ -1,3 +1,0 @@
-npm init -y
-npm install cors express nodemon socket.io
-npm install @material-ui/core @material-ui/icons react-copy-to-clipboard simple-peer socket.io-client
